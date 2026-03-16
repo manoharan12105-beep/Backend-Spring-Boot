@@ -119,5 +119,3 @@ By completing the examples in this folder, you understand how to:
 * Extract data from URL paths
 * Read query parameters
 * Accept JSON request bodies
-
-These concepts form the **foundation of building REST APIs in Spring Boot**.
